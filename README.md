@@ -8,3 +8,5 @@ Video: https://www.youtube.com/watch?v=dA_3RymORIM
 
 ROS project that makes neato's velocity acording to its distance to a wall (VelocidadeDistancia.py)
 Video: https://studio.youtube.com/video/ZM0QdzZ06Kw/edit
+
+Created at 2016.1
